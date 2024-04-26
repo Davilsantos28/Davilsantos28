@@ -4,6 +4,8 @@
   Olá meu nome é Davi, sou fã da de Front-End e Desenvolvimento de sistemas. 
   Estou fazendo curso tecnico de desenvolvimento de sistemas.
 </p>
+
+
 <p align="left">
 ## 🚀 Minhas Skills
 
@@ -18,7 +20,10 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas:
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 </p>
 
 <p align="left">
