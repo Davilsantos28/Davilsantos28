@@ -6,7 +6,7 @@
 </p>
 
 
-<p align="left" height="32">
+<p align="left" height="40">
 🚀 Minhas Skills
 
   
